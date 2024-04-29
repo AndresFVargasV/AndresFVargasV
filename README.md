@@ -7,7 +7,7 @@ I'm Andrés Vargas, and here's a bit about me:
 - 👯 I’m looking to collaborate on open-source projects and innovative solutions in artificial intelligence.
 - 🤔 I’m seeking help with expanding my knowledge in AI and Data Science.
 - 💬 Ask me about anything related to my projects or fields of interest.
-- ⚡ Fun fact: I love playing and watching football.
+- ⚡ Fun fact: I love solving complex problems and sharing knowledge with the community.
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresfvargas10/)
