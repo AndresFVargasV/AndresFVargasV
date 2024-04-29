@@ -36,5 +36,6 @@ I'm Andrés Vargas, and here's a bit about me:
 
 ### GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresFVargasV&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFVargasV&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresFVargasV&show_icons=true&theme=black-blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFVargasV&layout=compact&theme=black-blue)
+
