@@ -36,6 +36,5 @@ I'm Andrés Vargas, and here's a bit about me:
 
 ### GitHub Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=AndresFVargasV&color=blue)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresFVargasV&show_icons=true)
 
