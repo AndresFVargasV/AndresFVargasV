@@ -36,8 +36,8 @@ I'm Andrés Vargas, and here's a bit about me:
 ![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat-square&logoColor=white)
 
 ### GitHub Analytics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresFVargasV&show_icons=true&theme=blue-green)](https://github.com/AndresFVargasV)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFVargasV&layout=compact&theme=blue-green)](https://github.com/AndresFVargasV)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresFVargasV&show_icons=true&theme=blue-white)](https://github.com/AndresFVargasV)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFVargasV&layout=compact&theme=blue-white)](https://github.com/AndresFVargasV)
 
 
 
