@@ -33,3 +33,9 @@ I'm Andrés Vargas, and here's a bit about me:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### GitHub Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=AndresFVargasV&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresFVargasV&show_icons=true)
+
