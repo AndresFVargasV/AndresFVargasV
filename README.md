@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-I'm Andrés Vargas, and here's a bit about me:
+I'm Andrés Vargas and here's a little bit about myself:
 
-- 🔭 I’m currently working on various projects involving machine learning and web development.
-- 🌱 I’m continuously learning about advanced techniques in deep learning and efficient data processing.
-- 👯 I’m looking to collaborate on open-source projects and innovative solutions in artificial intelligence.
-- 🤔 I’m seeking help with expanding my knowledge in AI and Data Science.
+- 🔭 I'm currently working as a Backend developer for tyba.
+- 🌱 I like to continuously learn about Backend development, deep learning, machine learning, and data processing.
 - 💬 Ask me about anything related to my projects or fields of interest.
-- ⚡ Fun fact: I love playing and watching footbal. My favorite teams are Junior and Real Madrid.
+- ⚡ Fun fact: I love playing and watching soccer. My favorite teams are Junior and Real Madrid.
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresfvargas10/)
